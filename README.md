@@ -8,7 +8,6 @@ Etapas do projeto:
 - Tirar o LabView e criar GUI própria.
 - Tirar o circuito da protoboard e montar um MVP.
 
-
 ## Referências
 
 > As referências para esse projeto se encontram dentro da pasta `artigos_e_links`.

@@ -4,9 +4,9 @@ Projeto de um potenciostato de baixo custo para uso em laboratórios de eletroqu
 
 Etapas do projeto:
 
-- Construir o mesmo projeto do artigo (usando o LabView).
-- Tirar o LabView e criar GUI própria.
-- Tirar o circuito da protoboard e montar um MVP.
+- __1ª Etapa__: Construir o mesmo projeto do artigo (usando o LabView).
+- __2ª Etapa__: Tirar o LabView e criar GUI própria.
+- __3ª Etapa__: Tirar o circuito da protoboard e montar um MVP.
 
 ## Referências
 

@@ -1,6 +1,6 @@
-# Potenciostato Caseiro
+# Potenciostato de Baixo Custo
 
-Projeto de um potenciostato caseiro para uso em laboratórios de eletroquímica baseado em arduino.
+Projeto de um potenciostato de baixo custo para uso em laboratórios de eletroquímica (incialmente baseado em arduino).
 
 Etapas do projeto:
 
